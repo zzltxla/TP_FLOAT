@@ -1,0 +1,43 @@
+#background {
+    background-color: lightgray;
+    width: 80vw;
+    height: 100vh;
+    margin: 0 auto;
+}
+#container {
+    width: 70vw;
+    height: 90vh;
+    margin: 0 auto;
+    padding-top: 5%;
+}
+#header {
+    width: 70vw;
+    height: 15vh;
+    background-color: plum;
+}
+#nav {
+    width: 70vw;
+    height: 40vh;
+}
+#left-top {
+    float: left;
+    background-color: black;
+    width: 35vw;
+    height: 10vh;
+}
+#right-bottom {
+    float: left;
+    background-color: black;
+    width: 35vw;
+    height: 10vh;
+}
+#left-bottom {
+    background-color: white;
+    width: 35vw;
+    height: 10vh;
+}
+#right-bottom {
+    background-color: white;
+    width: 35vw;
+    height: 10vh;
+}

@@ -1,0 +1,31 @@
+#background {
+    background-color: lightgrey;
+    width: 70vw;
+    height: 90vh;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+#container {
+    width: 60vw;
+    height: 70vh;
+    margin: 0 auto;
+    padding-top: 3vh;
+}
+#left {
+    float: left;
+    width: 30vw;
+    height: 60vh;
+    background-color: black;
+}
+#right {
+    float: left;
+    width: 30vw;
+    height: 60vh;
+    background-color: whitesmoke;
+}
+#bottom {
+    clear: none;
+    background-color: blue;
+    width: 60vw;
+    height: 15vh;
+}

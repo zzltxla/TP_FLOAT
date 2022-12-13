@@ -1,0 +1,40 @@
+div {
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+#background {
+    background-color: lightgray;
+    height: 90vh;
+    width: 80vw;
+    margin: 0 auto;
+}
+#container {
+    height: 80vh;
+    width: 70vw;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+#header {
+    width: 70vw;
+    height: 15vh;
+    background-color: black;
+}
+#nav {
+    width: 70vw;
+    height: 10vh;
+    background-color: aqua;
+}
+#section {
+    width: 68.5vw;
+    height: 30vh;
+    border: red 15px solid;
+    background-color: blue;
+}
+#footer {
+    width: 70vw;
+    height: 15vh;
+    background-color: darkgray;
+}

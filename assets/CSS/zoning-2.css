@@ -1,0 +1,33 @@
+#background {
+    background-color: lightgray;
+    margin: 0 auto;
+    width: 80vw;
+    height: 90vh;
+}
+#container {
+    width: 70vw;
+    height: 80vh;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+#top {
+    background-color: dimgrey;
+    float: inline-start;
+    width: 70vw;
+    height: 10vh;
+}
+.aside {
+    background-color: black;
+    width: 20vw;
+    height: 50vh;
+    float: left;
+}
+#middle {
+    float: left;
+    background-color: white;
+    width: 30vw;
+    height: 50vh;
+}
+.clear {
+    clear: both;
+}
